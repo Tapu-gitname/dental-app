@@ -1,0 +1,9 @@
+.p-datatable-customers {
+    width: 100%;
+    margin: 20px 0;
+  }
+  
+  .p-datatable-customers th, .p-datatable-customers td {
+    text-align: left;
+    padding: 10px;
+  }
